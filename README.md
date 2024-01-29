@@ -6,7 +6,7 @@
 
 🛠️ Tech Stack:
 Languages: HTML, CSS, JavaScript, PHP
-Frameworks: CodeIgniter
+Frameworks: CodeIgniter, Laravel
 Tools: Git, GitHub
 🌱 Learning Journey:
 🔍 Exploring the intricacies of PHP and CodeIgniter to build robust backend solutions.
