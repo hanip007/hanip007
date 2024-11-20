@@ -22,6 +22,10 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Debugging: Check the generated files
+      - name: List output files
+        run: ls -l dist
+
       # Show git status (for debugging)
       - run: git status
 
@@ -40,7 +44,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-- name: List output files
-  run: ls -l dist
