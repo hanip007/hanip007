@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: hanip007
-          output: dist/snake.svg
+          outputs: dist/snake.svg
 
       # Push hasil Snake Animation ke repository
       - name: Push Snake Animation to GitHub
