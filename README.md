@@ -5,7 +5,7 @@
 I am a passionate and experienced Backend Developer based in Yogyakarta, Indonesia. <br> 
 I specialize in building scalable and efficient backend systems using a variety of <br>
 technologies. My focus is on creating clean, maintainable, and high-performance <br> 
-code to support seamless user experiences. 
+code to support user experiences. 
 
 ---
 
